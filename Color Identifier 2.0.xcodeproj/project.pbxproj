@@ -15,6 +15,7 @@
 		3F3878F3263714AC00BD724B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F3878F1263714AC00BD724B /* LaunchScreen.storyboard */; };
 		3F3878FE263714AC00BD724B /* Color_Identifier_2_0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3878FD263714AC00BD724B /* Color_Identifier_2_0Tests.swift */; };
 		3F387909263714AC00BD724B /* Color_Identifier_2_0UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F387908263714AC00BD724B /* Color_Identifier_2_0UITests.swift */; };
+		3F3879222640532B00BD724B /* secondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3879212640532B00BD724B /* secondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3F387904263714AC00BD724B /* Color Identifier 2.0UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Color Identifier 2.0UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F387908263714AC00BD724B /* Color_Identifier_2_0UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color_Identifier_2_0UITests.swift; sourceTree = "<group>"; };
 		3F38790A263714AC00BD724B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F3879212640532B00BD724B /* secondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				3F3878E6263714A800BD724B /* AppDelegate.swift */,
 				3F3878E8263714A800BD724B /* SceneDelegate.swift */,
 				3F3878EA263714A800BD724B /* ViewController.swift */,
+				3F3879212640532B00BD724B /* secondView.swift */,
 				3F3878EC263714A800BD724B /* Main.storyboard */,
 				3F3878EF263714AC00BD724B /* Assets.xcassets */,
 				3F3878F1263714AC00BD724B /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				3F3878EB263714A800BD724B /* ViewController.swift in Sources */,
 				3F3878E7263714A800BD724B /* AppDelegate.swift in Sources */,
+				3F3879222640532B00BD724B /* secondView.swift in Sources */,
 				3F3878E9263714A800BD724B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
